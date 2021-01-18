@@ -17,7 +17,7 @@
   To use an image list   -> give the path to the XML or YAML file containing the list of the images, like "/tmp/circles_list.xml"
   -->
   <!--  <Input>"images/CameraCalibration/VID5/VID5.xml"</Input> -->
-  <Input>"/home/oem/Programming/Datasets/S3-FishEye-3.mp4"</Input>
+  <Input>"../S3-FishEye-3.mp4"</Input>
 
   <!--  If true (non-zero) we flip the input images around the horizontal axis.-->
   <Input_FlipAroundHorizontalAxis>0</Input_FlipAroundHorizontalAxis>
